@@ -1,64 +1,59 @@
 {
   "events": [
     {
-      "name": "Subarashii Matsuri 2025",
-      "date": "21-23 Februari 2025",
-      "location": "Living World"
+      "name": "Mugen no Uta Fest Ramadhan Series",
+      "date": "14-16 Maret 2025",
+      "location": "J-Town Jatinegara"
     },
     {
-      "name": "Soken Fest",
-      "date": "22 Februari 2025",
-      "location": "Travoy Hub"
+      "name": "Wibukber Cosplay Jabodetabek",
+      "date": "15 Maret 2025",
+      "location": "McDonald's Juanda, Bekasi Timur"
     },
     {
-      "name": "J-town Cosgame",
-      "date": "22 Februari 2025",
-      "location": "J-town Jatinegara"
+      "name": "Angkringan Event Bubar(Buka Bareng)",
+      "date": "15 Maret 2025",
+      "location": "McDonald's Juanda, Bekasi Timur"
     },
     {
-      "name": "Ciledug Banzai",
-      "date": "22 Februari 2025",
-      "location": "Ciplaz Ciledug"
+      "name": "Cosplay Ngabuburit",
+      "date": "15-16, 22-23 Maret 2025",
+      "location": "Mall Plasa Cibubur, Bekasi"
     },
     {
-      "name": "J-Popcolony",
-      "date": "22 Februari 2025",
-      "location": "Pantai Indah Kapuk, PIK"
+      "name": "Chowa Matsuri",
+      "date": "16 Maret 2025",
+      "location": "Trans Studio Cibubur"
     },
     {
-      "name": "Nobox Anime Festival 2025 by Nobox X Raf Creative",
-      "date": "22-23 Februari 2025",
-      "location": "Senen Jaya, Jakarta Pusat"
+      "name": "Wibukber",
+      "date": "16 Maret 2025",
+      "location": "Mangga 2 Square"
     },
     {
-      "name": "Idol Radiance",
-      "date": "22-23 Februari 2025",
-      "location": "Mall BTM, Bogor"
+      "name": "Cosplay Coswalk Competition",
+      "date": "22 Maret 2025",
+      "location": "Aeon Deltamas Cikarang"
     },
     {
-      "name": "Takochi Festival",
-      "date": "22-23 Februari 2025",
-      "location": "Lippo Plaza Ekalokasari, Bogor"
+      "name": "FANTECH 16th ANNIVERSARY - COSWALK COMPETITION",
+      "date": "22 Maret 2025",
+      "location": "Point Arena, Jakarta Selatan"
     },
     {
-      "name": "Ai No Hana",
-      "date": "22-23 Februari 2025",
-      "location": "Mall Cijantung, Jakarta"
+      "name": "Ngabuburit Ikuzo 3",
+      "date": "23 Maret 2025",
+      "location": "Metmal Cileungsi"
     },
     {
-      "name": "Extreme League : The Garuda Cosplay Competition",
-      "date": "23 Februari 2025",
-      "location": "Kemang Village"
+      "name": "Haru Biyori",
+      "date": "23 Maret 2025",
+      "location": "Lt. 3A, PGC Cililitan, Jakarta Timur"
     },
     {
-      "name": "Purple Fest Evo",
-      "date": "23 Februari 2025",
-      "location": "Lagoon Avenue Mall, Bekasi"
-    },
-    {
-      "name": "Sakura NIHONGO TAIKAI 2025",
-      "date": "23 Februari 2025",
-      "location": "Grand Galaxy City, Bekasi"
+      "name": "Museum Mandiri Cosfest Vol.1",
+      "date": "6 April 2025",
+      "location": "Museum Mandiri, Kota Tua, Jakarta Barat"
     },
     {
       "name": "Midori Festival 4",
@@ -104,6 +99,11 @@
       "name": "Mukashi Next",
       "date": "Reschedule (TBC)",
       "location": "Jakarta (TBA)"
+    },
+    {
+      "name": "WAGUFEST",
+      "date": "TBC",
+      "location": "TBA"
     }
   ]
 }
