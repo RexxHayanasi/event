@@ -1,109 +1,291 @@
 {
-  "events": [
-    {
-      "name": "Mugen no Uta Fest Ramadhan Series",
-      "date": "14-16 Maret 2025",
-      "location": "J-Town Jatinegara"
-    },
-    {
-      "name": "Wibukber Cosplay Jabodetabek",
-      "date": "15 Maret 2025",
-      "location": "McDonald's Juanda, Bekasi Timur"
-    },
-    {
-      "name": "Angkringan Event Bubar(Buka Bareng)",
-      "date": "15 Maret 2025",
-      "location": "McDonald's Juanda, Bekasi Timur"
-    },
-    {
-      "name": "Cosplay Ngabuburit",
-      "date": "15-16, 22-23 Maret 2025",
-      "location": "Mall Plasa Cibubur, Bekasi"
-    },
-    {
-      "name": "Chowa Matsuri",
-      "date": "16 Maret 2025",
-      "location": "Trans Studio Cibubur"
-    },
-    {
-      "name": "Wibukber",
-      "date": "16 Maret 2025",
-      "location": "Mangga 2 Square"
-    },
-    {
-      "name": "Cosplay Coswalk Competition",
-      "date": "22 Maret 2025",
-      "location": "Aeon Deltamas Cikarang"
-    },
-    {
-      "name": "FANTECH 16th ANNIVERSARY - COSWALK COMPETITION",
-      "date": "22 Maret 2025",
-      "location": "Point Arena, Jakarta Selatan"
-    },
-    {
-      "name": "Ngabuburit Ikuzo 3",
-      "date": "23 Maret 2025",
-      "location": "Metmal Cileungsi"
-    },
-    {
-      "name": "Haru Biyori",
-      "date": "23 Maret 2025",
-      "location": "Lt. 3A, PGC Cililitan, Jakarta Timur"
-    },
-    {
-      "name": "Museum Mandiri Cosfest Vol.1",
-      "date": "6 April 2025",
-      "location": "Museum Mandiri, Kota Tua, Jakarta Barat"
-    },
-    {
-      "name": "Midori Festival 4",
-      "date": "10-11 Mei 2025",
-      "location": "Green Pramuka Square, Jakarta"
-    },
-    {
-      "name": "Indonesia Anime Con (INACON)",
-      "date": "17-18 Mei 2025",
-      "location": "Senayan Park, Spark"
-    },
-    {
-      "name": "Comic Frontier 20A CF20",
-      "date": "24-25 Mei 2025",
-      "location": "ICE BSD, Tangerang"
-    },
-    {
-      "name": "Anime Festival Asia 2025",
-      "date": "6-8 Juni 2025",
-      "location": "Jakarta Convention Center, JCC"
-    },
-    {
-      "name": "Shoera Festival V2",
-      "date": "21-22 Juni 2025",
-      "location": "Poins Mall"
-    },
-    {
-      "name": "Chibi Con",
-      "date": "2-3 Agustus 2025",
-      "location": "Exhibition Hall, Smesco Indonesia"
-    },
-    {
-      "name": "Rentcos No Matsuri",
-      "date": "?",
-      "location": "?"
-    },
-    {
-      "name": "Indonesia Comic Con",
-      "date": "25-26 Oktober 2025",
-      "location": "Jakarta International Convention Center, Senayan"
-    },
-    {
-      "name": "Mukashi Next",
-      "date": "Reschedule (TBC)",
-      "location": "Jakarta (TBA)"
-    },
-    {
-      "name": "WAGUFEST",
-      "date": "TBC",
-      "location": "TBA"
-    }
-  ]
+  "title": "New Update!",
+  "description": "Info Event Jejepangan Jabodetabek (2025)",
+  "note": "Dilarang Keras Untuk Menghapus Source Postingan Ini, Hargai Pembuat",
+  "events": {
+    "Mei": [
+      {
+        "name": "Toy Fanatic Vol.7 2025",
+        "date": "16-18 Mei 2025",
+        "location": "Neo Soho, Jakarta Barat",
+        "info": "https://www.instagram.com/p/DJb0JGyyvqZ/?igsh=MWJmMGJodG5mNXFtYg=="
+      },
+      {
+        "name": "Pesta Anime 2025",
+        "date": "17-18 Mei 2025",
+        "location": "ITC Cempaka Mas",
+        "info": "https://www.instagram.com/p/DInPfx_PecE/?igsh=MWVobmllZms4amhxdw=="
+      },
+      {
+        "name": "Ciplaz Klender Banzai Matsuri",
+        "date": "18 Mei 2025",
+        "location": "Ciplaz Klender",
+        "info": "https://www.instagram.com/p/DJZFZZGyCkS/?igsh=Mm5qNTY2bmczeXVj"
+      },
+      {
+        "name": "Gangnam To Shibuya",
+        "date": "24 Mei 2025",
+        "location": "TangCity Mall",
+        "info": "https://www.instagram.com/p/DIVLKJ6BFIE/?igsh=ZWp0ZXM5ODVreXh2"
+      },
+      {
+        "name": "Roxy Anime Fest 2025",
+        "date": "24-25 Mei 2025",
+        "location": "ITC Roxy Mas",
+        "info": "https://www.instagram.com/p/DI2o-NxvdU8/?igsh=MWV6dnBzYWJ1cnVheQ=="
+      },
+      {
+        "name": "Comic Frontier 20A CF20",
+        "date": "24-25 May 2025",
+        "location": "ICE BSD, Tanggerang",
+        "info": "https://www.instagram.com/p/DCMFCx0B4fL/?igsh=cjRtNjhrejh3Y2Vp"
+      },
+      {
+        "name": "Cosplay Attack",
+        "date": "31 Mei 2025",
+        "location": "Mall Bassura, Jakarta Timur",
+        "info": "@rafcreative"
+      },
+      {
+        "name": "Arigatou Matsuri",
+        "date": "31 Mei 2025",
+        "location": "Forest Plaza, Lantai Dasar, Aeon Deltamas, Aeon Deltamas, Cikarang",
+        "info": "@aeonmallcikarang"
+      },
+      {
+        "name": "WOW KOREA! COSWALK COMPETITION",
+        "date": "31 Mei 2025",
+        "location": "Main Atrium, Pakuwon Mall Bekasi",
+        "info": "https://www.instagram.com/p/DJYjexvhW-d/?igsh=MTMxYnYwamR4NnFkZg=="
+      }
+    ],
+    "Juni": [
+      {
+        "name": "Cosplay Attack",
+        "date": "1 Juni 2025",
+        "location": "Mall Bassura, Jakarta Timur",
+        "info": "@rafcreative"
+      },
+      {
+        "name": "Anime Festival Asia 2025",
+        "date": "6-8 June 2025",
+        "location": "Jakarta Convention Center, JCC",
+        "info": "https://www.instagram.com/p/DHI4SvCJL0x/?igsh=MXg4OGx1dDlnZHJwaw=="
+      },
+      {
+        "name": "Doki Doki Japan Festival",
+        "date": "21 Juni 2025",
+        "location": "Circle Atrium, Sumarecon Mall Serpong",
+        "info": "@cosplayjabodetabek"
+      },
+      {
+        "name": "Japan Rock & Idol Festival Vol.4",
+        "date": "21-22 Juni 2025",
+        "location": "Green Pramuka Square",
+        "info": "@rafcreative"
+      },
+      {
+        "name": "Akarui Matsuri",
+        "date": "25 Juni 2025",
+        "location": "Politeknik APP Jakarta",
+        "info": "https://www.instagram.com/akarui.matsuri?igsh=Z3pwbnNubGtxczdz"
+      }
+    ],
+    "Juli": [
+      {
+        "name": "Yume No Mitai Festival Vol.1",
+        "date": "Juli 2025",
+        "location": "Central Jakarta, Jakarta Pusat",
+        "info": "@yumemanagement"
+      }
+    ],
+    "Agustus": [
+      {
+        "name": "Chibi Con",
+        "date": "2-3 Agustus 2025",
+        "location": "Exhibition Hall, Smesco Indonesia",
+        "info": "https://www.instagram.com/p/DFxR-hdyPkS/?igsh=dWF3bnlxMG15dTdr"
+      },
+      {
+        "name": "Wagufest",
+        "date": "30-31 Agustus 2025",
+        "location": "Exhibition Hall, Smesco Indonesia",
+        "info": "https://www.instagram.com/reel/DHQSHV6T3u2/?igsh=bnUwdjhpbTNuOWJx"
+      }
+    ],
+    "September": [
+      {
+        "name": "Jak-Japan Matsuri 2025",
+        "date": "27-28 September 2025",
+        "location": "Plaza Parkir Timur, GBK Senayan, Jakarta Pusat",
+        "info": "https://www.instagram.com/jktjapanmatsuri?igsh=bnN5NmJneXljMXk5"
+      }
+    ],
+    "Oktober": [
+      {
+        "name": "Indonesia Comic Con",
+        "date": "25-26 Oktober 2025",
+        "location": "Jakarta International Convention Center, Senayan",
+        "info": "https://www.instagram.com/p/DG76_OSyRQa/?igsh=MTR6ZHd3cDF3bGI0bg=="
+      }
+    ],
+    "TBA": [
+      {
+        "name": "Mukashi Next",
+        "date": "Reschedule (TBC)",
+        "location": "Jakarta (TBA)",
+        "info": ""
+      }
+    ]
+  },
+  "footer": {
+    "warning": "AKAN DI UPDATE, JANGAN DIUBAH ATAUPUN DIRUBAH ISINYA, JIKA INGIN DI SHARE BISA LANSUNG SHARE DARI SALURAN, TERIMAKASIH, KALAU TIDAK ANDA UBAH KITA BAKAL UPDATE LIST TERBARU",
+    "note": "Apabila ada schedule event yang belum masuk diatas, bisa bertanya pada admin informasi yang ada di deskripsi channel ya.",
+    "closing": "arigatou"
+  }
+}{
+  "title": "New Update!",
+  "description": "Info Event Jejepangan Jabodetabek By Angkringan Event (2025)",
+  "note": "Dilarang Keras Untuk Menghapus Source Postingan Ini, Hargai Pembuat",
+  "events": {
+    "Mei": [
+      {
+        "name": "Toy Fanatic Vol.7 2025",
+        "date": "16-18 Mei 2025",
+        "location": "Neo Soho, Jakarta Barat",
+        "info": "https://www.instagram.com/p/DJb0JGyyvqZ/?igsh=MWJmMGJodG5mNXFtYg=="
+      },
+      {
+        "name": "Pesta Anime 2025",
+        "date": "17-18 Mei 2025",
+        "location": "ITC Cempaka Mas",
+        "info": "https://www.instagram.com/p/DInPfx_PecE/?igsh=MWVobmllZms4amhxdw=="
+      },
+      {
+        "name": "Ciplaz Klender Banzai Matsuri",
+        "date": "18 Mei 2025",
+        "location": "Ciplaz Klender",
+        "info": "https://www.instagram.com/p/DJZFZZGyCkS/?igsh=Mm5qNTY2bmczeXVj"
+      },
+      {
+        "name": "Gangnam To Shibuya",
+        "date": "24 Mei 2025",
+        "location": "TangCity Mall",
+        "info": "https://www.instagram.com/p/DIVLKJ6BFIE/?igsh=ZWp0ZXM5ODVreXh2"
+      },
+      {
+        "name": "Roxy Anime Fest 2025",
+        "date": "24-25 Mei 2025",
+        "location": "ITC Roxy Mas",
+        "info": "https://www.instagram.com/p/DI2o-NxvdU8/?igsh=MWV6dnBzYWJ1cnVheQ=="
+      },
+      {
+        "name": "Comic Frontier 20A CF20",
+        "date": "24-25 May 2025",
+        "location": "ICE BSD, Tanggerang",
+        "info": "https://www.instagram.com/p/DCMFCx0B4fL/?igsh=cjRtNjhrejh3Y2Vp"
+      },
+      {
+        "name": "Cosplay Attack",
+        "date": "31 Mei 2025",
+        "location": "Mall Bassura, Jakarta Timur",
+        "info": "@rafcreative"
+      },
+      {
+        "name": "Arigatou Matsuri",
+        "date": "31 Mei 2025",
+        "location": "Forest Plaza, Lantai Dasar, Aeon Deltamas, Aeon Deltamas, Cikarang",
+        "info": "@aeonmallcikarang"
+      },
+      {
+        "name": "WOW KOREA! COSWALK COMPETITION",
+        "date": "31 Mei 2025",
+        "location": "Main Atrium, Pakuwon Mall Bekasi",
+        "info": "https://www.instagram.com/p/DJYjexvhW-d/?igsh=MTMxYnYwamR4NnFkZg=="
+      }
+    ],
+    "Juni": [
+      {
+        "name": "Cosplay Attack",
+        "date": "1 Juni 2025",
+        "location": "Mall Bassura, Jakarta Timur",
+        "info": "@rafcreative"
+      },
+      {
+        "name": "Anime Festival Asia 2025",
+        "date": "6-8 June 2025",
+        "location": "Jakarta Convention Center, JCC",
+        "info": "https://www.instagram.com/p/DHI4SvCJL0x/?igsh=MXg4OGx1dDlnZHJwaw=="
+      },
+      {
+        "name": "Doki Doki Japan Festival",
+        "date": "21 Juni 2025",
+        "location": "Circle Atrium, Sumarecon Mall Serpong",
+        "info": "@cosplayjabodetabek"
+      },
+      {
+        "name": "Japan Rock & Idol Festival Vol.4",
+        "date": "21-22 Juni 2025",
+        "location": "Green Pramuka Square",
+        "info": "@rafcreative"
+      },
+      {
+        "name": "Akarui Matsuri",
+        "date": "25 Juni 2025",
+        "location": "Politeknik APP Jakarta",
+        "info": "https://www.instagram.com/akarui.matsuri?igsh=Z3pwbnNubGtxczdz"
+      }
+    ],
+    "Juli": [
+      {
+        "name": "Yume No Mitai Festival Vol.1",
+        "date": "Juli 2025",
+        "location": "Central Jakarta, Jakarta Pusat",
+        "info": "@yumemanagement"
+      }
+    ],
+    "Agustus": [
+      {
+        "name": "Chibi Con",
+        "date": "2-3 Agustus 2025",
+        "location": "Exhibition Hall, Smesco Indonesia",
+        "info": "https://www.instagram.com/p/DFxR-hdyPkS/?igsh=dWF3bnlxMG15dTdr"
+      },
+      {
+        "name": "Wagufest",
+        "date": "30-31 Agustus 2025",
+        "location": "Exhibition Hall, Smesco Indonesia",
+        "info": "https://www.instagram.com/reel/DHQSHV6T3u2/?igsh=bnUwdjhpbTNuOWJx"
+      }
+    ],
+    "September": [
+      {
+        "name": "Jak-Japan Matsuri 2025",
+        "date": "27-28 September 2025",
+        "location": "Plaza Parkir Timur, GBK Senayan, Jakarta Pusat",
+        "info": "https://www.instagram.com/jktjapanmatsuri?igsh=bnN5NmJneXljMXk5"
+      }
+    ],
+    "Oktober": [
+      {
+        "name": "Indonesia Comic Con",
+        "date": "25-26 Oktober 2025",
+        "location": "Jakarta International Convention Center, Senayan",
+        "info": "https://www.instagram.com/p/DG76_OSyRQa/?igsh=MTR6ZHd3cDF3bGI0bg=="
+      }
+    ],
+    "TBA": [
+      {
+        "name": "Mukashi Next",
+        "date": "Reschedule (TBC)",
+        "location": "Jakarta (TBA)",
+        "info": ""
+      }
+    ]
+  },
+  "footer": {
+    "warning": "AKAN DI UPDATE, JANGAN DIUBAH ATAUPUN DIRUBAH ISINYA, JIKA INGIN DI SHARE BISA LANSUNG SHARE DARI SALURAN, TERIMAKASIH, KALAU TIDAK ANDA UBAH KITA BAKAL UPDATE LIST TERBARU",
+    "note": "Apabila ada schedule event yang belum masuk diatas, bisa bertanya pada admin informasi yang ada di deskripsi channel ya.",
+    "closing": "arigatou"
+  }
 }
